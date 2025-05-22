@@ -1,0 +1,9 @@
+
+#weather-result {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  color: #212529;
+  text-align: center;
+  transition: background-color 0.5s;
+}
